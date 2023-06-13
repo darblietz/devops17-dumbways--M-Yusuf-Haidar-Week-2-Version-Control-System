@@ -16,5 +16,19 @@
 - Last Step, dengan Git Push fungsinya untuk mengupload data file yang kita sudah anggap sampai tahap finalisasi untuk dipush ke repository database Git server. dengan perintah berikut ``$ git push origin master``<br/><br/>![12  Git Push](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Version-Control-System/assets/98991080/8b2fc44d-3708-4814-9cba-946a7b8ba7ec)<br/><br/>
 - Dan terakhir lakukan refresh ke Web pada tampilan Git SSH<br/><br/>![13  Final Refresh Web](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Version-Control-System/assets/98991080/cfa8ce6c-8aab-4c9e-a862-3c96444b8db5)<br/><br/>
 
-#### 3. Buat 2 branch - Stagin - Production
+#### 3. Buat 2 branch - Staging - Production
+
+- Pertama buat perintah ``$git branch staging``<br/><br/>![1](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Version-Control-System/assets/98991080/1409f3aa-3153-4d91-9972-e762f752881e)<br/><br/>
+- Kedua lakukan  perintah juga ``$ git branch production``, dan untuk mengecek list berapa branch yang kita miliki dengan perintah ``$ git branch -a``<br/><br/>![2](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Version-Control-System/assets/98991080/d46c05e3-fe42-4bec-bf7c-92442d9ea112)<br/><br/>
+- Untuk berpindah branch dengan cara ``$ git checkout (name branch)``<br/><br/>![3](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Version-Control-System/assets/98991080/c9f452da-273e-44fb-ac6a-bfeb5b5e331e)<br/><br/>
+- <br/><br/><br/><br/>
+
+
+
+
+
+
+
+
+
 #### 4. Cari 3 command git yang belum dijelaskan
