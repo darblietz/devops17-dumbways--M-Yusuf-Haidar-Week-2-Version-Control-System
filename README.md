@@ -26,3 +26,6 @@
 - Setelah ada penambahan di Branch production dan Staging maka ada perubahan di Page Web Git.Hub.<br/><br/>![5](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Version-Control-System/assets/98991080/a743e00e-aec3-4fe9-a4a4-7ac8c33dc0ab)<br/><br/>
 
 #### 4. Cari 3 command git yang belum dijelaskan
+- ``$ git log --summary`` untuk melihat perubahan dengan detail
+- ``$ git merge <nama-branch>`` untuk sebuah branch ke branch aktif.
+- ``$ git pull``untuk menggabungkan semua perubahan yang ada di remote repository ke direktori lokal
