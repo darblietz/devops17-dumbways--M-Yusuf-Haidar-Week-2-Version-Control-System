@@ -21,14 +21,8 @@
 - Pertama buat perintah ``$git branch staging``<br/><br/>![1](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Version-Control-System/assets/98991080/1409f3aa-3153-4d91-9972-e762f752881e)<br/><br/>
 - Kedua lakukan  perintah juga ``$ git branch production``, dan untuk mengecek list berapa branch yang kita miliki dengan perintah ``$ git branch -a``<br/><br/>![2](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Version-Control-System/assets/98991080/d46c05e3-fe42-4bec-bf7c-92442d9ea112)<br/><br/>
 - Untuk berpindah branch dengan cara ``$ git checkout (name branch)``<br/><br/>![3](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Version-Control-System/assets/98991080/c9f452da-273e-44fb-ac6a-bfeb5b5e331e)<br/><br/>
-- <br/><br/><br/><br/>
-
-
-
-
-
-
-
-
+- Lakukan pengubahan fileTwo dan masukan ke Branch Production<br/><br/>
+- Ketik perintah ``$ git push origin production``<br/><br/>![4](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Version-Control-System/assets/98991080/635859d8-a91f-4d4e-bff2-0cfe27983d40)<br/><br/>
+- Setelah ada penambahan di Branch production dan Staging maka ada perubahan di Page Web Git.Hub.<br/><br/>![5](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Version-Control-System/assets/98991080/a743e00e-aec3-4fe9-a4a4-7ac8c33dc0ab)<br/><br/>
 
 #### 4. Cari 3 command git yang belum dijelaskan
